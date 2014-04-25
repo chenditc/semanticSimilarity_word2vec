@@ -1,0 +1,10 @@
+File name format:
+
+input.[test or training].[word2sense or phrase2word].[word_word or word_description or description_description]
+
+File format:
+
+input1.1 \t input1.2 \n input2.1 \t input2.2 \n ....
+
+for each input, the word is seperated by space
+

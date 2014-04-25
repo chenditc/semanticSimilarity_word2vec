@@ -1,0 +1,27 @@
+Scores for SemEval-2014 Task 3
+Pearson's correlation	0.608714	Spearman's rho	0.604133
+hello world
+# use regular expression \W+ to remove non alphabet 
+# remove stopwords from both text
+Scores for SemEval-2014 Task 3
+Pearson's correlation	0.609871	Spearman's rho	0.607532
+Scores for SemEval-2014 Task 3
+Pearson's correlation	0.604610	Spearman's rho	0.594027
+Scores for SemEval-2014 Task 3
+Pearson's correlation	0.608265	Spearman's rho	0.600015
+Scores for SemEval-2014 Task 3
+Pearson's correlation	0.604553	Spearman's rho	0.601659
+Scores for SemEval-2014 Task 3
+Pearson's correlation	0.607614	Spearman's rho	0.603558
+Scores for SemEval-2014 Task 3
+Pearson's correlation	0.613946	Spearman's rho	0.607289
+Scores for SemEval-2014 Task 3
+Pearson's correlation	0.606131	Spearman's rho	0.601693
+Scores for SemEval-2014 Task 3
+Pearson's correlation	0.601726	Spearman's rho	0.602932
+Scores for SemEval-2014 Task 3
+Pearson's correlation	0.611370	Spearman's rho	0.607224
+Traceback (most recent call last):
+  File "word2vec.py", line 886, in <module>
+    outputFile = sys.argv[4]
+IndexError: list index out of range

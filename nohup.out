@@ -1,0 +1,83 @@
+hello world
+File does not exist: temp2
+File does not exist: temp2
+hello world
+hello world
+hello world
+Traceback (most recent call last):
+  File "word2vec.py", line 925, in <module>
+    inputfile = open(inputFile).read()
+IOError: [Errno 2] No such file or directory: 'input/input.training.phrase2word.description_descriptio'
+Traceback (most recent call last):
+  File "word2vec.py", line 925, in <module>
+    inputfile = open(inputFile).read()
+IOError: [Errno 2] No such file or directory: 'input/input.training.phrase2word.description_descriptio'
+Traceback (most recent call last):
+  File "word2vec.py", line 925, in <module>
+    inputfile = open(inputFile).read()
+IOError: [Errno 2] No such file or directory: 'input/input.training.phrase2word.description_descriptio'
+Traceback (most recent call last):
+  File "word2vec.py", line 925, in <module>
+    inputfile = open(inputFile).read()
+IOError: [Errno 2] No such file or directory: 'input/input.training.phrase2word.description_descriptio'
+Traceback (most recent call last):
+  File "word2vec.py", line 925, in <module>
+    inputfile = open(inputFile).read()
+IOError: [Errno 2] No such file or directory: 'input/input.training.phrase2word.description_descriptio'
+Traceback (most recent call last):
+  File "word2vec.py", line 925, in <module>
+    inputfile = open(inputFile).read()
+IOError: [Errno 2] No such file or directory: 'input/input.training.phrase2word.description_descriptio'
+Traceback (most recent call last):
+  File "word2vec.py", line 925, in <module>
+    inputfile = open(inputFile).read()
+IOError: [Errno 2] No such file or directory: 'input/input.training.phrase2word.description_descriptio'
+Traceback (most recent call last):
+  File "word2vec.py", line 925, in <module>
+    inputfile = open(inputFile).read()
+IOError: [Errno 2] No such file or directory: 'input/input.training.phrase2word.description_descriptio'
+Traceback (most recent call last):
+  File "word2vec.py", line 925, in <module>
+    inputfile = open(inputFile).read()
+IOError: [Errno 2] No such file or directory: 'input/input.training.phrase2word.description_descriptio'
+Traceback (most recent call last):
+  File "word2vec.py", line 925, in <module>
+    inputfile = open(inputFile).read()
+IOError: [Errno 2] No such file or directory: 'input/input.training.phrase2word.description_descriptio'
+Traceback (most recent call last):
+  File "word2vec.py", line 925, in <module>
+    inputfile = open(inputFile).read()
+IOError: [Errno 2] No such file or directory: 'input/input.training.phrase2word.description_descriptio'
+Traceback (most recent call last):
+  File "word2vec.py", line 925, in <module>
+    inputfile = open(inputFile).read()
+IOError: [Errno 2] No such file or directory: 'input/input.training.phrase2word.description_descriptio'
+Traceback (most recent call last):
+  File "word2vec.py", line 925, in <module>
+    inputfile = open(inputFile).read()
+IOError: [Errno 2] No such file or directory: 'input/input.training.phrase2word.description_descriptio'
+Traceback (most recent call last):
+  File "word2vec.py", line 925, in <module>
+    inputfile = open(inputFile).read()
+IOError: [Errno 2] No such file or directory: 'input/input.training.phrase2word.description_descriptio'
+Traceback (most recent call last):
+  File "word2vec.py", line 925, in <module>
+    inputfile = open(inputFile).read()
+IOError: [Errno 2] No such file or directory: 'input/input.training.phrase2word.description_descriptio'
+Traceback (most recent call last):
+  File "word2vec.py", line 925, in <module>
+    inputfile = open(inputFile).read()
+IOError: [Errno 2] No such file or directory: 'input/input.training.phrase2word.description_descriptio'
+Traceback (most recent call last):
+  File "word2vec.py", line 925, in <module>
+    inputfile = open(inputFile).read()
+IOError: [Errno 2] No such file or directory: 'input/input.training.phrase2word.description_descriptio'
+Traceback (most recent call last):
+  File "word2vec.py", line 925, in <module>
+    inputfile = open(inputFile).read()
+IOError: [Errno 2] No such file or directory: 'input/input.training.phrase2word.description_descriptio'
+hello world
+hello world
+hello world
+hello world
+hello world
