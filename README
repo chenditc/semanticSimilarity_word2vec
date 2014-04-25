@@ -1,3 +1,8 @@
+Download word2vec pre-trained binary:
+https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit?usp=sharing
+
+
+==============================================================
 File name format:
 
 input.[test or training].[word2sense or phrase2word].[word_word or word_description or description_description]
