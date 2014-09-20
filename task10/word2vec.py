@@ -6,6 +6,12 @@ import os
 import heapq
 import time
 import threading
+import re
+import numpy
+import scipy.spatial.distance 
+from numpy import linalg as LA
+from sklearn.cluster import KMeans
+
 try:
     from queue import Queue
 except ImportError:
@@ -55,10 +61,8 @@ def vectorSumSimilarity(words1, words2, model):
     words1 = removeStopWords(words1)
     words2 = removeStopWords(words2)
 
-    dimensions = 1000
-
-    vector1 = numpy.zeros(dimensions);
-    vector2 = numpy.zeros(dimensions);
+    vector1 = numpy.zeros(300);
+    vector2 = numpy.zeros(300);
 
     for word1 in words1:
         try:
@@ -75,9 +79,9 @@ def vectorSumSimilarity(words1, words2, model):
             continue
 
     if (LA.norm(vector1) == 0):
-        vector1 = numpy.ones(dimensions)
+        vector1 = numpy.ones(300)
     if (LA.norm(vector2) == 0):
-        vector2 = numpy.ones(dimensions)
+        vector2 = numpy.ones(300)
 
     return 1- (scipy.spatial.distance.cosine(vector1, vector2))
 
@@ -173,12 +177,6 @@ def clusterSimilarity2(words1, words2, model, clusterNumber):
 
 
 if __name__ == "__main__":
-
-    import re
-    import numpy
-    import scipy.spatial.distance 
-    from numpy import linalg as LA
-    from sklearn.cluster import KMeans
 
     # check and process cmdline input
     program = os.path.basename(sys.argv[0])
